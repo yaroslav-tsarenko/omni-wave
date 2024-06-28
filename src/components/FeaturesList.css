@@ -1,0 +1,275 @@
+.instant-mobile-recharge {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.and-anywhere-with,
+.balance-will-take,
+.blank-line,
+.blank-line1,
+.card,
+.card-or-crypto,
+.instant-recharge-of,
+.minutes-to-talk,
+.paynetred-and-enter,
+.save-time-and,
+.surprise-your-loved,
+.with-your-gcc-issued {
+  margin: 0;
+}
+.instant-recharge-of-container {
+  align-self: stretch;
+  height: 287px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Open Sans";
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.features-list-items {
+  width: 322px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.convenient-mobile-bill {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.need-a {
+  white-space: pre-wrap;
+}
+.blank-line2,
+.blank-line3,
+.need-a,
+.the-service-is,
+.we-accept-apple {
+  margin: 0;
+}
+.need-a-quick-container {
+  align-self: stretch;
+  height: 220px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Open Sans";
+  display: flex;
+  align-items: center;
+}
+.features-list-items1 {
+  width: 322px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 422px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.uae-gift-cards {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.blank-line4,
+.denominations-of-gift,
+.make-a-present,
+.our-gift-cards,
+.play-netflix-playstation,
+.service,
+.we-are-pleased {
+  margin: 0;
+}
+.we-are-pleased-container {
+  align-self: stretch;
+  height: 220px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Open Sans";
+  display: flex;
+  align-items: center;
+}
+.features-list-items2 {
+  width: 322px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 844px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.convenient-mobile-bill1 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.blank-line5,
+.blank-line6,
+.call-to-india,
+.choose-five-calling,
+.get-the-cheapest,
+.mobile-operators,
+.uae,
+.uae-calling-cards,
+.you-are-calling {
+  margin: 0;
+}
+.try-international-calling {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.blank-line7,
+.blank-line8 {
+  margin: 0;
+}
+.uae-calling-cards-container {
+  align-self: stretch;
+  height: 308px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Open Sans";
+  display: flex;
+  align-items: center;
+}
+.features-list-items3 {
+  width: 322px;
+  margin: 0 !important;
+  position: absolute;
+  top: 419px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.gaming-gift-cards {
+  align-self: stretch;
+  position: relative;
+  line-height: 27px;
+}
+.gaming-gift-cards1 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.amount-to-your,
+.network-xbox-steam,
+.your-personal-preferences {
+  margin: 0;
+}
+.gaming-gift-cards-container {
+  align-self: stretch;
+  height: 110px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Open Sans";
+  display: flex;
+  align-items: center;
+}
+.features-list-items4 {
+  width: 322px;
+  margin: 0 !important;
+  position: absolute;
+  top: 419px;
+  left: 422px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  font-size: 21px;
+  font-family: "IBM Plex Sans";
+}
+.link {
+  height: 24px;
+  width: 113px;
+  position: relative;
+  display: none;
+  z-index: 5;
+}
+.features-list,
+.features-list-items-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.features-list-items-parent {
+  height: 809px;
+  width: 1200px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  position: relative;
+  gap: 50px 100px;
+}
+.features-list {
+  align-self: stretch;
+  background-color: #f5edf3;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 24px;
+  color: #3d160a;
+  font-family: Manrope;
+}
+@media screen and (max-width: 1050px) {
+  .features-list {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .features-list {
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .convenient-mobile-bill,
+  .convenient-mobile-bill1,
+  .instant-mobile-recharge,
+  .uae-gift-cards {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .gaming-gift-cards {
+    font-size: 17px;
+    line-height: 22px;
+  }
+}

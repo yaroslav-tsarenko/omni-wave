@@ -1,0 +1,194 @@
+.image-20-icon,
+.image-21 {
+  position: absolute;
+  margin: 0 !important;
+}
+.image-20-icon {
+  width: 1920px;
+  height: 1080px;
+  right: -0.5px;
+  bottom: -349px;
+  object-fit: cover;
+}
+.image-21 {
+  width: 100%;
+  height: 100%;
+  right: -1px;
+  bottom: -0.2px;
+  background-color: rgba(247, 248, 252, 0.9);
+  z-index: 1;
+}
+.get-in-touch {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.we-value-your {
+  width: 661.8px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Open Sans";
+  display: inline-block;
+  max-width: 100%;
+}
+.hero-title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 30px;
+  box-sizing: border-box;
+  gap: 16px;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.name-fields,
+.name-fields1 {
+  border: 0;
+  background-color: transparent;
+  height: 55px;
+  flex: 1;
+  font-family: "Open Sans";
+  font-size: 16px;
+  color: #3d160a;
+  min-width: 251px;
+  max-width: 100%;
+}
+.name-inputs {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  max-width: 100%;
+}
+.contact-info,
+.your-message {
+  font-size: 16px;
+  font-family: "Open Sans";
+  color: #3d160a;
+}
+.contact-info {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 55px;
+}
+.your-message {
+  width: 77px;
+  position: relative;
+  line-height: 135%;
+  text-align: left;
+  display: inline-block;
+  white-space: nowrap;
+}
+.contact-info1 {
+  align-self: stretch;
+  height: 129px;
+  border-radius: 8px;
+  border: 0.5px solid #3d160a;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 19.5px 46px 19px;
+}
+.form-inputs {
+  gap: 14px;
+}
+.form-container,
+.form-fields,
+.form-inputs {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.component-3 {
+  align-self: stretch;
+  height: 50px;
+}
+.hero,
+.hero-content,
+.hero-form {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.hero-form {
+  margin: 0;
+  gap: 16px;
+  flex-shrink: 0;
+}
+.hero,
+.hero-content {
+  box-sizing: border-box;
+}
+.hero-content {
+  height: 401.6px;
+  padding: 0;
+  gap: 24px;
+  z-index: 2;
+}
+.hero {
+  background-color: #f4f1ff;
+  overflow: hidden;
+  padding: 164px 562px 165.4px 563px;
+  position: relative;
+  text-align: center;
+  font-size: 48px;
+  color: #3d160a;
+  font-family: Manrope;
+}
+@media screen and (max-width: 1200px) {
+  .hero-content {
+    height: auto;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .get-in-touch {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .hero {
+    padding-left: 281px;
+    padding-right: 281px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .hero {
+    padding: 107px 140px 108px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .get-in-touch {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .form-container {
+    gap: 22px;
+  }
+  .component-3 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

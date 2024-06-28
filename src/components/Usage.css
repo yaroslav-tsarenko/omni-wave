@@ -1,0 +1,125 @@
+.how-we-use-your-information {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.how-we-use-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.providing-services,
+.we-use-your {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.we-use-your {
+  height: 22px;
+  line-height: 135%;
+  display: inline-block;
+}
+.usage-subtypes {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.communication,
+.we-may-use1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.we-may-use1 {
+  height: 22px;
+  line-height: 135%;
+  display: inline-block;
+}
+.usage-subtypes1 {
+  width: 867px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.analytics,
+.we-use-analytics {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.we-use-analytics {
+  height: 22px;
+  line-height: 135%;
+  display: inline-block;
+}
+.usage-subtypes2 {
+  width: 861px;
+  gap: 16px;
+}
+.usage,
+.usage-subtypes2,
+.usage-types {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.usage-types {
+  align-self: stretch;
+  padding: 0 800px 0 0;
+  box-sizing: border-box;
+  gap: 16px;
+  font-size: 16px;
+  font-family: "Open Sans";
+}
+.usage {
+  width: 1680px;
+  gap: 32px;
+  text-align: left;
+  font-size: 32px;
+  color: #3d160a;
+  font-family: Manrope;
+}
+@media screen and (max-width: 1200px) {
+  .usage-types {
+    padding-right: 400px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .how-we-use-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .usage-types {
+    padding-right: 200px;
+    box-sizing: border-box;
+  }
+  .usage {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .how-we-use-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .usage-types {
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

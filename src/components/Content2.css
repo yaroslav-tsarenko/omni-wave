@@ -1,0 +1,180 @@
+.sign-in-to,
+.sign-in2 {
+  align-self: stretch;
+  position: relative;
+}
+.sign-in2 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.sign-in-to {
+  height: 22px;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: "Open Sans";
+  display: inline-block;
+}
+.sign-in-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 1px;
+  gap: 12px;
+}
+.frame-inner,
+.frame-textfield {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 40px;
+  font-family: "Open Sans";
+  font-size: 16px;
+  color: #3d160a;
+}
+.button4,
+.frame-container {
+  align-self: stretch;
+  flex: 1;
+}
+.frame-container {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.or-sign-in {
+  width: 81px;
+  position: relative;
+  font-size: 16px;
+  line-height: 44px;
+  font-family: "Open Sans";
+  display: inline-block;
+  min-width: 81px;
+}
+.frame-child1,
+.frame-child2,
+.frame-icon {
+  height: 45px;
+  width: 45px;
+  position: relative;
+  border-radius: 15px;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 45px;
+}
+.frame-group,
+.frame-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.frame-group {
+  align-self: stretch;
+  width: 322px;
+  flex-direction: column;
+  align-items: center;
+  gap: 28.7px;
+  max-width: 100%;
+}
+.sign-in-wrapper,
+.sign-in1 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.sign-in1 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: 24px;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: 96px 20px 95px;
+}
+.sign-in-wrapper {
+  height: 731px;
+  width: 584px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 122px 0 0;
+  min-width: 584px;
+}
+.background-icon {
+  height: 896px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 624px;
+}
+.content3 {
+  width: 1753px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 20px;
+  box-sizing: border-box;
+  gap: 189px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 48px;
+  color: #3d160a;
+  font-family: Manrope;
+}
+@media screen and (max-width: 1400px) {
+  .sign-in-wrapper {
+    flex: 1;
+  }
+  .content3 {
+    flex-wrap: wrap;
+    gap: 94px;
+  }
+}
+@media screen and (max-width: 825px) {
+  .sign-in2 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .sign-in1 {
+    padding-top: 62px;
+    padding-bottom: 62px;
+    box-sizing: border-box;
+  }
+  .sign-in-wrapper {
+    padding-top: 79px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .background-icon {
+    min-width: 100%;
+  }
+  .content3 {
+    gap: 47px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .sign-in2 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .button4 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .content3 {
+    gap: 24px;
+  }
+}

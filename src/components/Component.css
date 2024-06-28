@@ -1,0 +1,290 @@
+.mask-group-icon1 {
+  height: 36.9px;
+  width: 40.2px;
+  position: relative;
+  object-fit: contain;
+}
+.omniwavecloud1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.mask-group-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+  font-size: 32px;
+  font-family: Manrope;
+}
+.about {
+  margin: 0;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: Manrope;
+  display: inline-block;
+  min-width: 68px;
+}
+.about1,
+.contact,
+.faq,
+.press,
+.reviews {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 33px;
+}
+.contact,
+.faq,
+.press,
+.reviews {
+  min-width: 22px;
+}
+.contact,
+.press,
+.reviews {
+  min-width: 42px;
+}
+.press,
+.reviews {
+  min-width: 30px;
+}
+.reviews {
+  min-width: 45px;
+}
+.copyright {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.businesses,
+.product {
+  position: relative;
+  display: inline-block;
+}
+.product {
+  margin: 0;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: Manrope;
+  min-width: 89px;
+}
+.businesses {
+  width: 61px;
+  line-height: 22px;
+  min-width: 61px;
+}
+.gift-card-incentives {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+  white-space: nowrap;
+}
+.link-columns {
+  width: 108px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.legal {
+  margin: 0;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: Manrope;
+  min-width: 60px;
+}
+.legal,
+.privacy,
+.site-terms {
+  position: relative;
+  display: inline-block;
+}
+.site-terms {
+  width: 58px;
+  line-height: 135%;
+  white-space: nowrap;
+}
+.privacy {
+  line-height: 22px;
+  min-width: 39px;
+}
+.link-columns1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.use-giftvoucher {
+  margin: 0;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: Manrope;
+}
+.how-it-works {
+  width: 72px;
+  line-height: 135%;
+  min-width: 72px;
+  white-space: nowrap;
+}
+.how-it-works,
+.redeem,
+.why-us {
+  position: relative;
+  display: inline-block;
+}
+.why-us {
+  line-height: 135%;
+  min-width: 47px;
+  white-space: nowrap;
+}
+.redeem {
+  line-height: 22px;
+  min-width: 46px;
+}
+.link-columns2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.other-stuff {
+  margin: 0;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: Manrope;
+  display: inline-block;
+  min-width: 122px;
+}
+.blog {
+  line-height: 22px;
+  min-width: 25px;
+}
+.blog,
+.gift-card-worth,
+.sitemap {
+  position: relative;
+  display: inline-block;
+}
+.gift-card-worth {
+  width: 87px;
+  line-height: 135%;
+  min-width: 87px;
+  white-space: nowrap;
+}
+.sitemap {
+  line-height: 22px;
+  min-width: 46px;
+}
+.link-columns3,
+.links-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 17px;
+}
+.links-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.categories2,
+.restaurants-bars-spas-shopping {
+  width: 58px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+}
+.restaurants-bars-spas-shopping {
+  height: 22px;
+  width: 572px;
+  line-height: 135%;
+  max-height: 22px;
+  word-break: break-word;
+  max-width: 100%;
+}
+.categories1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  max-width: 100%;
+}
+.component-7,
+.footer-links-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+}
+.footer-links-container {
+  width: 1536px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.component-7 {
+  align-self: stretch;
+  background-color: #3d160a;
+  align-items: center;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1050px) {
+  .omniwavecloud1 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .links-wrapper {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .categories1 {
+    flex-wrap: wrap;
+  }
+  .footer-links-container {
+    gap: 18px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .about,
+  .legal,
+  .omniwavecloud1,
+  .other-stuff,
+  .product,
+  .use-giftvoucher {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .component-7 {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}

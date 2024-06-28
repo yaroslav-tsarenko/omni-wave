@@ -1,0 +1,111 @@
+.refund-process2 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.refund-process1,
+.to-request-a {
+  align-self: stretch;
+  position: relative;
+}
+.refund-process1 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.to-request-a {
+  height: 22px;
+  line-height: 135%;
+  display: inline-block;
+}
+.process-steps {
+  width: 995px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.provide-your-order {
+  align-self: stretch;
+  height: 22px;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+}
+.process-steps1 {
+  width: 814px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.our-customer-support {
+  align-self: stretch;
+  height: 22px;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+}
+.process-details,
+.process-steps2,
+.refund-process {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.process-steps2 {
+  align-self: stretch;
+}
+.process-details,
+.refund-process {
+  max-width: 100%;
+}
+.process-details {
+  align-self: stretch;
+  padding: 0 165px 0 0;
+  box-sizing: border-box;
+  gap: 16px;
+  font-size: 16px;
+  font-family: "Open Sans";
+}
+.refund-process {
+  width: 1680px;
+  gap: 32px;
+  text-align: left;
+  font-size: 32px;
+  color: #3d160a;
+  font-family: Manrope;
+}
+@media screen and (max-width: 1200px) {
+  .process-details {
+    padding-right: 82px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .refund-process1 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .process-details {
+    padding-right: 41px;
+    box-sizing: border-box;
+  }
+  .refund-process {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .refund-process1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

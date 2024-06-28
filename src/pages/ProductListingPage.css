@@ -1,0 +1,36 @@
+.countries,
+.productlistingpage {
+  display: flex;
+  flex-direction: column;
+}
+.countries {
+  align-self: stretch;
+  background-color: #f4f1ff;
+  align-items: center;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.productlistingpage {
+  width: 100%;
+  position: relative;
+  align-items: flex-end;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .countries {
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .countries {
+    padding-top: 22px;
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+}
